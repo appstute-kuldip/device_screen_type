@@ -31,9 +31,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   device_preview: ^0.5.5
   device_screen_type:
-    git:
-      url: https://github.com/appstute-kuldip/device_screen_type.git
-      path: packages/device_screen_type
+    path: packages/device_screen_type
 
 dev_dependencies:
   flutter_test:
